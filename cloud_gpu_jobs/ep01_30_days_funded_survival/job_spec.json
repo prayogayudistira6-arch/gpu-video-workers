@@ -1,0 +1,44 @@
+{
+  "job_id": "ep01_30_days_funded_survival",
+  "created_at": "2026-11-26 19:02:53",
+  "engine": "sdxl_lofi",
+  "aspect_ratio": "9:16",
+  "seed": 42,
+  "character_lock": "Minimalist 2D dark survival animation illustration, consistent white round-headed stickman protagonist wearing a bright amber-gold hoodie (#F5B40B), dark slate pants and white sneakers, crisp 3px black outlines, minimalist calm eyes, deep high-contrast dark background, zero text.",
+  "negative_prompt": "text, watermark, logo, blurry, deformed, extra limbs",
+  "voiceover_script": "You start a fifty thousand dollar funded challenge with one rule: lose five percent in a single day, and the account dies instantly. Day one. Your inventory is simple: fifty thousand capital, two thousand five hundred daily limit, and half a percent risk per trade. Day three. Two clean winners push you up fifteen hundred. Overconfidence whispers to double your size. Day seven. Three red candles hit back to back. A massive drawdown wall towers over you. Ninety percent of traders revenge trade here and blow up. You lock the terminal instead. Day thirty. Boring half percent execution clears eight percent profit. Phase one survived. Tomorrow, Phase two begins with zero room for ego. Follow for Episode two.",
+  "caption": "30 Days To Survive A $50K Funded Challenge (Episode 1). Would you survive Day 7 without revenge trading? Follow for Episode 2.",
+  "hashtags": [
+    "#propfirm",
+    "#fundedtrader",
+    "#tradingpsychology",
+    "#daytrading"
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "prompt": "Wide vertical shot of the amber-gold hoodie stickman standing calmly in a dark brutalist trading room staring at glowing holographic numbers 50K and a red 5 percent floor line.",
+      "duration_sec": 6.0
+    },
+    {
+      "scene_id": "scene_02",
+      "prompt": "The amber-gold hoodie stickman walking confidently along glowing emerald green ascending bars in a dark void, soft green rim light.",
+      "duration_sec": 6.0
+    },
+    {
+      "scene_id": "scene_03",
+      "prompt": "Dramatic scale contrast: tiny amber-gold hoodie stickman standing calmly at the bottom facing three towering colossal crimson red candlesticks looming like skyscrapers in a dark stormy hall.",
+      "duration_sec": 6.0
+    },
+    {
+      "scene_id": "scene_04",
+      "prompt": "The amber-gold hoodie stickman calmly climbing a clean emerald green staircase out of the red storm toward warm morning light.",
+      "duration_sec": 6.0
+    },
+    {
+      "scene_id": "scene_05",
+      "prompt": "The amber-gold hoodie stickman standing at the summit overlooking a glowing emerald cityscape at sunrise, peaceful victorious expression, open horizon ahead.",
+      "duration_sec": 6.0
+    }
+  ]
+}
