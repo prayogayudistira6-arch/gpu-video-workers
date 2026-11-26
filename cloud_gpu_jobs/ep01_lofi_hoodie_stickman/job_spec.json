@@ -1,0 +1,44 @@
+{
+  "job_id": "ep01_lofi_hoodie_stickman",
+  "created_at": "2026-11-26 09:38:40",
+  "engine": "sdxl_lofi",
+  "aspect_ratio": "9:16",
+  "seed": 42,
+  "character_lock": "Minimalist 2D lofi anime illustration, cute white round-headed stickman with crisp 3px black outlines, minimalist dot eyes and thin eyebrows, wearing an oversized dark charcoal hoodie, slim dark stick legs, and sneakers. Atmospheric warm/neon lighting, zero text.",
+  "negative_prompt": "text, watermark, logo, blurry, deformed, extra limbs",
+  "voiceover_script": "Three AM. Another fifty thousand dollar account gone. You walk out into the rain wondering if you should just quit. You sit in a quiet coffee shop, open your journal, and finally see the truth. It was never your strategy. It was trading without a daily loss limit. The next morning, you cut your risk to half a percent, take one clean setup, and close the laptop. Boring discipline is what finally gets you paid. Save this if you refuse to quit.",
+  "caption": "3 AM blown account -> quiet coffee shop -> 0.5% discipline -> first funded payout. Save this if you refuse to quit.",
+  "hashtags": [
+    "#propfirm",
+    "#fundedtrader",
+    "#tradingpsychology",
+    "#daytrading"
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "prompt": "Sitting slumped at a wooden desk at 3 AM in a dimly lit bedroom, soft crimson glow from a monitor showing falling red candlesticks, rain on dark window behind.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_02",
+      "prompt": "Walking slowly with hands in hoodie pockets along a rainy neon city sidewalk at night next to a glowing subway entrance, wet asphalt reflections.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_03",
+      "prompt": "Sitting alone at a warm wooden window counter inside a cozy coffee shop at night, warm amber pendant lights, steaming coffee mug and open trading journal, rainy neon city outside window.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_04",
+      "prompt": "Warm golden sunrise light pouring onto a clean wooden desk, calm posture watching a single monitor with a steady upward emerald green candlestick trend.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_05",
+      "prompt": "Standing by a sunlit apartment window smiling quietly while holding a smartphone casting a soft emerald green glow, peaceful morning cityscape outside.",
+      "duration_sec": 5.0
+    }
+  ]
+}
