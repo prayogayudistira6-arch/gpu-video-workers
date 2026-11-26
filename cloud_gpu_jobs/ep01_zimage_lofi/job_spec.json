@@ -1,0 +1,43 @@
+{
+  "job_id": "ep01_zimage_lofi",
+  "created_at": "2026-11-26 19:57:04",
+  "engine": "z_image_turbo",
+  "aspect_ratio": "9:16",
+  "seed": 42,
+  "character_lock": "2D lofi anime illustration style with crisp black outlines, featuring ONE single small minimalist white round-headed stickman character (smooth pure white circular blank head with two tiny black dot eyes and thin eyebrows, no hair, no nose) wearing a regular-proportioned dark charcoal hoodie, slim dark legs and sneakers. Normal compact human proportions, single character centered in frame, rich atmospheric background, zero text.",
+  "negative_prompt": "bad anatomy, elongated body, long torso, double torso, stacked body, two heads, extra arms, extra hands, extra legs, malformed limbs, text, watermark, logo, signature, blurry, 3d render, photo",
+  "voiceover_script": "Three AM. Another fifty thousand dollar account gone. You walk out into the rain wondering if you should just quit. You sit in a quiet coffee shop, open your journal, and finally see the truth. It was never your strategy. It was trading without a daily loss limit. The next morning, you cut your risk to half a percent, take one clean setup, and close the laptop. Boring discipline is what finally gets you paid. Save this if you refuse to quit.",
+  "caption": "3 AM blown account -> quiet coffee shop -> 0.5% discipline -> first funded payout. Save this if you refuse to quit.",
+  "hashtags": [
+    "#propfirm",
+    "#fundedtrader",
+    "#tradingpsychology"
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "prompt": "Medium wide shot of the single stickman sitting tired at a wooden desk at 3 AM in a dimly lit bedroom, glowing monitor showing falling red trading candlesticks casting soft crimson light, rain on window behind.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_02",
+      "prompt": "Wide cinematic shot of the single stickman walking alone with hands in hoodie pockets along a rainy neon city sidewalk at night next to a glowing subway entrance, wet asphalt reflections.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_03",
+      "prompt": "Medium shot of the single stickman seated on a stool at a warm wooden window counter inside a cozy dimly lit coffee shop at night, warm amber pendant lamps, steaming ceramic coffee mug, open journal, rainy neon city outside glass window.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_04",
+      "prompt": "Medium wide shot in warm golden sunrise bedroom light, the single stickman sitting upright and calm at a clean wooden desk watching one monitor with a steady upward emerald green candlestick chart.",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_05",
+      "prompt": "Medium shot of the single stickman standing by a bright sunlit apartment window smiling gently while holding a smartphone casting a soft green glow, peaceful morning cityscape outside.",
+      "duration_sec": 5.0
+    }
+  ]
+}
