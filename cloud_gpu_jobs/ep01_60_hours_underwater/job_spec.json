@@ -1,0 +1,81 @@
+{
+  "job_id": "ep01_60_hours_underwater",
+  "created_at": "2026-11-27 21:59:31",
+  "engine": "z_image_turbo",
+  "aspect_ratio": "9:16",
+  "seed": 42013,
+  "character_lock": "Dark atmospheric cinematic documentary photography, 35mm Kodak Vision3 film grain, realistic moody chiaroscuro lighting, deep abyssal slate shadows with subtle cold teal and dim hazard amber highlights, grounded human-scale realism, sharp optical depth of field, vertical 9:16 composition, zero text, zero watermark.",
+  "negative_prompt": "text, watermark, subtitle, logo, signature, bright sunny colors, cartoon, anime, plastic 3d render, bad anatomy, extra fingers, deformed hands, extra limbs, gore, blood, corpse, graphic violence, cluttered frame, split screen",
+  "voiceover_script": "In May 2013, a ship cook was in the bathroom at 4:30 AM when the floor flipped upside down, and his tugboat sank one hundred feet to the ocean floor. Within seconds, freezing Atlantic water swallowed the ship. Fighting through pitch blackness, Harrison Okene surfaced inside a tiny four-foot pocket of trapped air. The cold water alone should have caused hypothermia in hours. So in total darkness, he ripped down wall panels and stacked mattresses to build a tiny floating shelf above the waterline. By Hour Twenty-Four, the real killer wasn't low oxygen, it was carbon dioxide. In a sealed bubble that small, his own breath should have turned toxic. Physicists later found the twist. At one hundred feet deep, four atmospheres of pressure compressed extra oxygen into the pocket. And every splash against the water below dissolved carbon dioxide straight into the sea like a natural scrubber. At Hour Sixty, a rescue diver swam into the wreck expecting nobody alive. Suddenly, a hand reached out of the black water and grabbed his arm. Even then, he couldn't swim straight up, rising too fast would be fatal. Divers sealed him in a decompression chamber for two more days before he walked free. Sixty hours in pitch black under the sea. Honestly, how many minutes could you stay calm?",
+  "caption": "In May 2013, ship cook Harrison Okene survived 60 hours trapped upside down 100 feet under the Atlantic Ocean in a 4-foot pocket of air. Honestly — how many minutes could you stay calm before panicking? #survival #truestory #ocean #deepsea #history #science #documentary",
+  "hashtags": [
+    "#survival",
+    "#truestory",
+    "#ocean",
+    "#deepsea",
+    "#science",
+    "#documentary"
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "prompt": "Inside a narrow steel tugboat cabin violently tilting upside down at night, dim flickering amber emergency bulb, dark foaming Atlantic seawater rushing violently across the steel floor through an open doorway, intense claustrophobic documentary realism",
+      "duration_sec": 5.5
+    },
+    {
+      "scene_id": "scene_02",
+      "prompt": "Wide underwater abyssal view of a steel ocean tugboat resting completely upside down on the dark muddy Atlantic seabed at 100 feet depth, faint delicate trail of silver air bubbles rising into pitch-black water, deep cold teal darkness",
+      "duration_sec": 4.5
+    },
+    {
+      "scene_id": "scene_03",
+      "prompt": "Chest-up framing of a realistic 29-year-old Nigerian man with very short cropped black hair in a soaked dark crew undershirt surfacing inside a tiny cramped upside-down steel ship cabin, dark rippling seawater up to his chest, barely four feet of trapped air above his head, faint cold bluish edge light in near-total darkness, calm determined eyes, seawater droplets on skin",
+      "duration_sec": 7.5
+    },
+    {
+      "scene_id": "scene_04",
+      "prompt": "Medium shot inside a dark upside-down flooded steel ship cabin, a realistic 29-year-old Nigerian man with short cropped black hair in a soaked dark crew undershirt carefully stacking wet wooden wall panels and soaked mattresses onto steel pipes to build a narrow elevated floating shelf just above dark cold seawater, dim chiaroscuro shadows",
+      "duration_sec": 8.5
+    },
+    {
+      "scene_id": "scene_05",
+      "prompt": "Intimate atmospheric close-up of a realistic 29-year-old Nigerian man with short cropped black hair sitting calmly on a makeshift wooden shelf inside a pitch-dark submerged steel cabin, eyes gently closed controlling his breathing, faint mist of breath in freezing humid air, dark water rippling below him, subtle cold blue rim light",
+      "duration_sec": 6.5
+    },
+    {
+      "scene_id": "scene_06",
+      "prompt": "Dark editorial architectural cutaway cross-section of an upside-down sunken steel tugboat cabin underwater, showing a small shrinking dome of trapped air at the metal ceiling above rising black ocean water, subtle glowing amber haze swirling inside the tiny air pocket, deep slate abyss background, clean minimalist documentary illustration, zero labels",
+      "duration_sec": 5.5
+    },
+    {
+      "scene_id": "scene_07",
+      "prompt": "Minimalist dark scientific documentary visualization of deep ocean water pressing down from above onto an upside-down sunken ship hull at 100 feet depth, glowing cold cyan compressed air dome trapped inside the ceiling, subtle downward translucent pressure wave lines through dark blue water, deep abyssal slate background, zero labels",
+      "duration_sec": 8.0
+    },
+    {
+      "scene_id": "scene_08",
+      "prompt": "Macro cinematic close-up of dark seawater rippling inside a dim submerged steel ship cabin, a human hand gently splashing the dark water surface as tiny luminous micro-bubbles and faint mist dissolve downward beneath the ripples, cold teal and subtle amber reflection",
+      "duration_sec": 7.5
+    },
+    {
+      "scene_id": "scene_09",
+      "prompt": "Commercial saturation diver in dark heavy wetsuit and rugged yellow-and-black industrial diving helmet swimming through a murky submerged steel ship corridor at 100 feet depth, bright volumetric LED headlamp beam piercing dark green-black water and floating underwater silt particles",
+      "duration_sec": 5.5
+    },
+    {
+      "scene_id": "scene_10",
+      "prompt": "First-person underwater diving helmet camera view inside a pitch-black murky sunken ship cabin, bright circular flashlight beam illuminating dark green water as a living human hand suddenly reaches forward out of the shadow and grips the diver's dark gloved forearm, suspended silt particles, intense authentic documentary moment",
+      "duration_sec": 5.0
+    },
+    {
+      "scene_id": "scene_11",
+      "prompt": "Inside a steel cylindrical hyperbaric decompression chamber aboard a rescue vessel, warm amber cabin lighting, a realistic 29-year-old Nigerian man with short cropped black hair wrapped safely in a thick wool blanket sitting calmly beside a round steel porthole window looking toward soft daylight outside, quiet relief",
+      "duration_sec": 6.5
+    },
+    {
+      "scene_id": "scene_12",
+      "prompt": "Wide moody dawn seascape over the vast dark Atlantic Ocean, calm steel-blue ocean swells beneath heavy slate-grey clouds with a single narrow golden sunbeam breaking onto the distant horizon, quiet contemplative documentary finale",
+      "duration_sec": 5.0
+    }
+  ]
+}
