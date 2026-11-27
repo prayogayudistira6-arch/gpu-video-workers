@@ -1,0 +1,713 @@
+{
+  "job_id": "ep01_cinder_pilot",
+  "created_at": "2026-11-27 22:21:58",
+  "engine": "motion_comic_hybrid",
+  "aspect_ratio": "16:9",
+  "seed": 77,
+  "character_lock": "",
+  "negative_prompt": "speech bubbles, comic text, watermark, logo, signature, blurry, deformed hands, extra limbs, duplicate body, two heads, low resolution",
+  "voiceover_script": "My heart had twelve beats left before the brand turned my lungs to ash. And the High Executioner of House Veyr stood ready to collect every single one. Lower your head, Ashford. A dying heart cannot even lift a blade. You forgot the first law of the Cinder Brand, Malakor. A dying ember burns twice as hot right before it goes out. Two heartbeats vanished into the ash. Ten remained on the clock. Cut him down! Do not let that blade wake! Way too slow. The shockwave tore through three centuries of Tribunal stone in half a second. High Executioner Malakor hit the stone before his shattered halberd did. Then the cracked floor beneath my boots answered with a pulse of its own. Something buried beneath House Veyr just matched my tenth heartbeat.",
+  "caption": "The Knight With Twelve Heartbeats Left",
+  "hashtags": [
+    "#motioncomic",
+    "#darkfantasy",
+    "#progressionfantasy",
+    "#litrpg"
+  ],
+  "scenes": [
+    {
+      "scene_id": "sc_001",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, cinematic semi-3D hybrid dark fantasy manhwa still, sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers, kneeling in heavy iron chains on a cracked stone execution dais as crimson-violet embers erupt from his chest brand, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.6,
+      "motion_type": "HERO_I2V",
+      "i2v_motion_prompt": "Crimson-violet embers surge violently upward from the kneeling warrior's chest brand, jagged silver hair and tattered cloak billow, hanging chains tremble, rapid low-angle camera push-in",
+      "extract_fg_mask": false,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "NARRATOR",
+      "dialogue_or_narration": "My heart had twelve beats left before the brand turned my lungs to ash.",
+      "camera_movement": "low_angle_fast_dolly_in_shake",
+      "comic_text_overlay": {
+        "text": "12 BEATS REMAINING",
+        "style": "metallic_crimson_hud",
+        "trigger_sec": 0.5,
+        "duration_sec": 2.6
+      },
+      "sfx_cues": [
+        {
+          "sfx": "heavy_heartbeat_sub_bass",
+          "offset_sec": 0.1
+        },
+        {
+          "sfx": "ember_ignite_whoosh",
+          "offset_sec": 1.2
+        }
+      ],
+      "visual_tier": "CGI_SPLASH",
+      "section": "COLD_OPEN"
+    },
+    {
+      "scene_id": "sc_002",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, towering heavy-armored inquisitor silhouette in silver-black cathedral plate armor with glowing cold cyan visor slit, wielding a giant steel guillotine halberd, towering over the stone dais raising a giant guillotine halberd gleaming under cold blue light, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.5,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "NARRATOR",
+      "dialogue_or_narration": "And the High Executioner of House Veyr stood ready to collect every single one.",
+      "camera_movement": "low_angle_push",
+      "sfx_cues": [
+        {
+          "sfx": "metallic_sword_unsheathe",
+          "offset_sec": 0.6
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "COLD_OPEN"
+    },
+    {
+      "scene_id": "sc_003",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, extreme close-up of towering heavy-armored inquisitor silhouette in silver-black cathedral plate armor with glowing cold cyan visor slit, wielding a giant steel guillotine halberd, cold cyan visor glowing fiercely amidst swirling dark fog, steel halberd edge angled downward, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.4,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "ANTAGONIST",
+      "dialogue_or_narration": "Lower your head, Ashford. A dying heart cannot even lift a blade.",
+      "camera_movement": "pan_down_vertical",
+      "sfx_cues": [
+        {
+          "sfx": "heavy_heartbeat_sub_bass",
+          "offset_sec": 0.2
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "STAKES"
+    },
+    {
+      "scene_id": "sc_004",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, intense close-up of sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers, blazing crimson eye trail igniting into a sharp neon streak through silver hair, fierce defiance, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.0,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "CHAR_01",
+      "dialogue_or_narration": "You forgot the first law of the Cinder Brand, Malakor.",
+      "camera_movement": "low_angle_fast_dolly_in_shake",
+      "comic_text_overlay": {
+        "text": "IGNITION // -2 BEATS",
+        "style": "metallic_crimson_hud",
+        "trigger_sec": 0.6,
+        "duration_sec": 2.2
+      },
+      "sfx_cues": [
+        {
+          "sfx": "ember_ignite_whoosh",
+          "offset_sec": 0.5
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "STAKES"
+    },
+    {
+      "scene_id": "sc_005",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers, ripping heavy iron chains apart with explosive crimson-violet shockwave rings and flying metal links, dynamic ink speed lines, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.2,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "CHAR_01",
+      "dialogue_or_narration": "A dying ember burns twice as hot right before it goes out.",
+      "camera_movement": "diagonal_slash_pan_dutch_tilt",
+      "impact_frame_at_sec": 1.6,
+      "comic_text_overlay": {
+        "text": "CRAAACK!",
+        "style": "ink_brushstroke_impact",
+        "trigger_sec": 1.55,
+        "duration_sec": 1.1
+      },
+      "sfx_cues": [
+        {
+          "sfx": "chain_snap_metallic_slash",
+          "offset_sec": 1.55
+        },
+        {
+          "sfx": "sub_bass_drop",
+          "offset_sec": 1.6
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "RISING_ACTION"
+    },
+    {
+      "scene_id": "sc_006",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, cinematic semi-3D hybrid dark fantasy manhwa still, sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers, wrenching a massive obsidian greatsword out of the cracked stone floor as crimson-violet flames spiral upward, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.4,
+      "motion_type": "HERO_I2V",
+      "i2v_motion_prompt": "The dark knight pulls the massive obsidian greatsword from the shattered stone floor, swirling crimson-violet fire erupts along the blade, cloak billows violently",
+      "extract_fg_mask": false,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "NARRATOR",
+      "dialogue_or_narration": "Two heartbeats vanished into the ash. Ten remained on the clock.",
+      "camera_movement": "low_angle_push",
+      "comic_text_overlay": {
+        "text": "10 BEATS LEFT",
+        "style": "metallic_crimson_hud",
+        "trigger_sec": 0.7,
+        "duration_sec": 2.4
+      },
+      "sfx_cues": [
+        {
+          "sfx": "metallic_sword_unsheathe",
+          "offset_sec": 0.4
+        },
+        {
+          "sfx": "fire_whoosh",
+          "offset_sec": 0.9
+        }
+      ],
+      "visual_tier": "CGI_SPLASH",
+      "section": "MICRO_CLIMAX"
+    },
+    {
+      "scene_id": "sc_007",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, towering heavy-armored inquisitor silhouette in silver-black cathedral plate armor with glowing cold cyan visor slit, wielding a giant steel guillotine halberd, leaping downward in a brutal overhead guillotine halberd slam with cyan shockwaves and aggressive speed lines, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 3.8,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "ANTAGONIST",
+      "dialogue_or_narration": "Cut him down! Do not let that blade wake!",
+      "camera_movement": "diagonal_slash_pan_dutch_tilt",
+      "sfx_cues": [
+        {
+          "sfx": "stone_shatter",
+          "offset_sec": 1.1
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "COMBAT"
+    },
+    {
+      "scene_id": "sc_008",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers clashing against towering heavy-armored inquisitor silhouette in silver-black cathedral plate armor with glowing cold cyan visor slit, wielding a giant steel guillotine halberd, parrying and slicing cleanly through the giant steel halberd shaft in one blinding diagonal crimson slash arc, flying sparks, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 3.5,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "CHAR_01",
+      "dialogue_or_narration": "Way too slow.",
+      "camera_movement": "diagonal_slash_pan_dutch_tilt",
+      "impact_frame_at_sec": 1.2,
+      "comic_text_overlay": {
+        "text": "SHIIING!",
+        "style": "ink_brushstroke_impact",
+        "trigger_sec": 1.15,
+        "duration_sec": 1.2
+      },
+      "sfx_cues": [
+        {
+          "sfx": "metallic_sword_unsheathe",
+          "offset_sec": 1.15
+        },
+        {
+          "sfx": "sub_bass_drop",
+          "offset_sec": 1.2
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "CLIMAX_PAYOFF"
+    },
+    {
+      "scene_id": "sc_009",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, wide destruction shot inside gothic cathedral as crimson shockwave shatters towering stone pillars and hurls armored guards backward through purple dust, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.5,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "NARRATOR",
+      "dialogue_or_narration": "The shockwave tore through three centuries of Tribunal stone in half a second.",
+      "camera_movement": "zoom_out_reveal",
+      "sfx_cues": [
+        {
+          "sfx": "stone_shatter",
+          "offset_sec": 0.4
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "CLIMAX_PAYOFF"
+    },
+    {
+      "scene_id": "sc_010",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, cinematic semi-3D hybrid dark fantasy manhwa still, heroic low-angle shot of sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers standing victorious over a shattered steel halberd blade, crimson-violet embers drifting like snow, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.6,
+      "motion_type": "HERO_I2V",
+      "i2v_motion_prompt": "Heroic low-angle shot as the dark knight stands calmly with his glowing obsidian greatsword resting on his shoulder, silver hair and tattered cloak drifting in slow motion amidst rising crimson embers",
+      "extract_fg_mask": false,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "NARRATOR",
+      "dialogue_or_narration": "High Executioner Malakor hit the stone before his shattered halberd did.",
+      "camera_movement": "low_angle_push",
+      "comic_text_overlay": {
+        "text": "TRIBUNAL BROKEN",
+        "style": "metallic_crimson_hud",
+        "trigger_sec": 0.8,
+        "duration_sec": 2.4
+      },
+      "sfx_cues": [
+        {
+          "sfx": "ember_ignite_whoosh",
+          "offset_sec": 0.5
+        }
+      ],
+      "visual_tier": "CGI_SPLASH",
+      "section": "AURA_FARMING"
+    },
+    {
+      "scene_id": "sc_011",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, top-down shot of sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers standing over a glowing crimson-gold abyssal rune fissure splitting open across the black cathedral floor, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.4,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "NARRATOR",
+      "dialogue_or_narration": "Then the cracked floor beneath my boots answered with a pulse of its own.",
+      "camera_movement": "pan_down_vertical",
+      "sfx_cues": [
+        {
+          "sfx": "heavy_heartbeat_sub_bass",
+          "offset_sec": 0.8
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "CLIFFHANGER"
+    },
+    {
+      "scene_id": "sc_012",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, ominous wide shot looking down into a colossal subterranean obsidian vault beneath the cracked floor where two giant ancient crimson eyes awaken in the dark, cold slate-blue overhead light shafts cutting through dark purple floor fog",
+      "duration_sec": 4.6,
+      "motion_type": "2.5D_PARALLAX",
+      "extract_fg_mask": true,
+      "location_id": "loc_tribunal_vault",
+      "speaker": "CHAR_01",
+      "dialogue_or_narration": "Something buried beneath House Veyr just matched my tenth heartbeat.",
+      "camera_movement": "low_angle_fast_dolly_in_shake",
+      "comic_text_overlay": {
+        "text": "SECOND HEARTBEAT DETECTED",
+        "style": "metallic_crimson_hud",
+        "trigger_sec": 0.6,
+        "duration_sec": 2.8
+      },
+      "sfx_cues": [
+        {
+          "sfx": "heavy_heartbeat_sub_bass",
+          "offset_sec": 0.3
+        },
+        {
+          "sfx": "sub_bass_drop",
+          "offset_sec": 1.6
+        }
+      ],
+      "visual_tier": "STICKMAN_MANHWA",
+      "section": "CLIFFHANGER"
+    }
+  ],
+  "establishing_locations": [
+    {
+      "location_id": "loc_tribunal_vault",
+      "prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark, wide establishing architectural shot of a vast gothic tribunal cathedral hall, cracked obsidian pillars, heavy iron chains hanging from high arches, cold slate-blue light shafts, dark atmospheric floor fog, empty room without characters"
+    }
+  ],
+  "series_bible": {
+    "series_slug": "cinder_heart_vanguard",
+    "series_title": "The Knight With Twelve Heartbeats Left",
+    "target_market": "US_EN_18_34",
+    "visual_track": "Track_C_Hybrid",
+    "style_anchor_prompt": "high-production dark fantasy manhwa action aesthetic, razor-sharp ink linework, dramatic volumetric rim lighting, glowing crimson and violet ember particles, intense contrast, 16:9 widescreen, no speech bubbles, no text, no watermark",
+    "ip_laundering_audit": {
+      "premise_dna_trope": "Terminally cursed vanguard tactician trading his final remaining heartbeats to unleash forbidden ash-blade arts",
+      "power_system_swap": "Cinder-Heart Resonance (each technique permanently consumes physical heartbeats from an obsidian chest brand)",
+      "westernized_world": "House Veyr, The Ashen Dominion, The Obsidian Tribunal Vault",
+      "conflict_inversion": "Instead of hiding his terminal curse at an academy, Vane shatters his own execution chains during the opening tribunal",
+      "copyright_terms_purged": true,
+      "asian_honorifics_purged": true
+    },
+    "power_system": {
+      "name": "Cinder-Heart Resonance",
+      "mechanics": "Every forbidden strike consumes permanent heartbeats from an obsidian chest brand in exchange for overwhelming kinetic ash shockwaves",
+      "visual_signature": "Crimson-violet crackle arcs, drifting grey ash embers, monochrome impact shockwaves"
+    },
+    "establishing_locations": [
+      {
+        "location_id": "loc_tribunal_vault",
+        "name": "Ruined Obsidian Tribunal Vault of House Veyr",
+        "lighting_rule": "cold slate-blue overhead light shafts cutting through dark purple floor fog",
+        "clean_bg_prompt": "wide establishing architectural shot of a vast gothic tribunal cathedral hall, cracked obsidian pillars, heavy iron chains hanging from high arches, cold slate-blue light shafts, dark atmospheric floor fog, empty room without characters"
+      }
+    ],
+    "characters": [
+      {
+        "id": "NARRATOR",
+        "name": "The Chronicler",
+        "role": "Narrator",
+        "voice_profile": {
+          "tier0_edge_tts": "en-US-AndrewMultilingualNeural",
+          "rate": "+3%",
+          "pitch": "-4Hz"
+        },
+        "visual_dna_prompt": ""
+      },
+      {
+        "id": "CHAR_01",
+        "name": "Vane Ashford",
+        "role": "Protagonist",
+        "voice_profile": {
+          "tier0_edge_tts": "en-US-ChristopherNeural",
+          "rate": "+2%",
+          "pitch": "-6Hz"
+        },
+        "visual_dna_prompt": "sleek matte black dark-knight stickman-manhwa warrior silhouette with jagged silver-white hair, blazing crimson eye trail streak, tattered charcoal cloak over cracked obsidian chest armor, wielding a massive dark greatsword fissured with crimson-violet embers"
+      },
+      {
+        "id": "ANTAGONIST",
+        "name": "High Executioner Malakor",
+        "role": "Antagonist",
+        "voice_profile": {
+          "tier0_edge_tts": "en-US-EricNeural",
+          "rate": "-2%",
+          "pitch": "-10Hz"
+        },
+        "visual_dna_prompt": "towering heavy-armored inquisitor silhouette in silver-black cathedral plate armor with glowing cold cyan visor slit, wielding a giant steel guillotine halberd"
+      }
+    ],
+    "episode_arcs": [
+      {
+        "episode_number": 1,
+        "title_ideas": [
+          "My Cursed Heart Had 12 Beats Left... Until I Broke the Executioner's Blade",
+          "They Chained Him to Die. Ten Heartbeats Was All He Needed.",
+          "The Terminally-Cursed Vanguard Who Shattered the Tribunal (Ep. 1)"
+        ],
+        "cold_open_hook": "Chained on the execution dais with only twelve heartbeats remaining before turning to ash.",
+        "core_conflict": "Escape the High Executioner's encirclement without burning his final ten heartbeats.",
+        "climax_payoff": "A two-beat Cinder parry shatters the executioner's halberd in a single shockwave.",
+        "cliffhanger": "Beneath the cracked tribunal stone, an ancient buried vault pulses back on the exact tenth beat."
+      }
+    ]
+  },
+  "episode_manifest": {
+    "episode_id": "ep01_cinder_pilot",
+    "series_slug": "cinder_heart_vanguard",
+    "aspect_ratio_master": "16:9",
+    "resolution_master": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "target_duration_sec": 54,
+    "bgm_mood_tracks": [
+      {
+        "start_sec": 0.0,
+        "end_sec": 60.0,
+        "mood": "dark_tension_sub_bass_pulse",
+        "duck_db": -20
+      }
+    ],
+    "scenes": [
+      {
+        "scene_id": "sc_001",
+        "section": "COLD_OPEN",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "NARRATOR",
+        "dialogue_or_narration": "My heart had twelve beats left before the brand turned my lungs to ash.",
+        "duration_sec": 4.6,
+        "motion_type": "HERO_I2V",
+        "visual_tier": "CGI_SPLASH",
+        "camera_movement": "low_angle_fast_dolly_in_shake",
+        "image_prompt": "cinematic semi-3D hybrid dark fantasy manhwa still, [CHAR_01_VISUAL_DNA], kneeling in heavy iron chains on a cracked stone execution dais as crimson-violet embers erupt from his chest brand",
+        "i2v_motion_prompt": "Crimson-violet embers surge violently upward from the kneeling warrior's chest brand, jagged silver hair and tattered cloak billow, hanging chains tremble, rapid low-angle camera push-in",
+        "impact_frame_at_sec": null,
+        "comic_text_overlay": {
+          "text": "12 BEATS REMAINING",
+          "style": "metallic_crimson_hud",
+          "trigger_sec": 0.5,
+          "duration_sec": 2.6
+        },
+        "sfx_cues": [
+          {
+            "sfx": "heavy_heartbeat_sub_bass",
+            "offset_sec": 0.1
+          },
+          {
+            "sfx": "ember_ignite_whoosh",
+            "offset_sec": 1.2
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_002",
+        "section": "COLD_OPEN",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "NARRATOR",
+        "dialogue_or_narration": "And the High Executioner of House Veyr stood ready to collect every single one.",
+        "duration_sec": 4.5,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "low_angle_push",
+        "image_prompt": "[STYLE_ANCHOR], [ANTAGONIST_VISUAL_DNA], towering over the stone dais raising a giant guillotine halberd gleaming under cold blue light",
+        "sfx_cues": [
+          {
+            "sfx": "metallic_sword_unsheathe",
+            "offset_sec": 0.6
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_003",
+        "section": "STAKES",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "ANTAGONIST",
+        "dialogue_or_narration": "Lower your head, Ashford. A dying heart cannot even lift a blade.",
+        "duration_sec": 4.4,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "pan_down_vertical",
+        "image_prompt": "[STYLE_ANCHOR], extreme close-up of [ANTAGONIST_VISUAL_DNA], cold cyan visor glowing fiercely amidst swirling dark fog, steel halberd edge angled downward",
+        "sfx_cues": [
+          {
+            "sfx": "heavy_heartbeat_sub_bass",
+            "offset_sec": 0.2
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_004",
+        "section": "STAKES",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "CHAR_01",
+        "dialogue_or_narration": "You forgot the first law of the Cinder Brand, Malakor.",
+        "duration_sec": 4.0,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "low_angle_fast_dolly_in_shake",
+        "image_prompt": "[STYLE_ANCHOR], intense close-up of [CHAR_01_VISUAL_DNA], blazing crimson eye trail igniting into a sharp neon streak through silver hair, fierce defiance",
+        "comic_text_overlay": {
+          "text": "IGNITION // -2 BEATS",
+          "style": "metallic_crimson_hud",
+          "trigger_sec": 0.6,
+          "duration_sec": 2.2
+        },
+        "sfx_cues": [
+          {
+            "sfx": "ember_ignite_whoosh",
+            "offset_sec": 0.5
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_005",
+        "section": "RISING_ACTION",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "CHAR_01",
+        "dialogue_or_narration": "A dying ember burns twice as hot right before it goes out.",
+        "duration_sec": 4.2,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "diagonal_slash_pan_dutch_tilt",
+        "image_prompt": "[STYLE_ANCHOR], [CHAR_01_VISUAL_DNA], ripping heavy iron chains apart with explosive crimson-violet shockwave rings and flying metal links, dynamic ink speed lines",
+        "impact_frame_at_sec": 1.6,
+        "comic_text_overlay": {
+          "text": "CRAAACK!",
+          "style": "ink_brushstroke_impact",
+          "trigger_sec": 1.55,
+          "duration_sec": 1.1
+        },
+        "sfx_cues": [
+          {
+            "sfx": "chain_snap_metallic_slash",
+            "offset_sec": 1.55
+          },
+          {
+            "sfx": "sub_bass_drop",
+            "offset_sec": 1.6
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_006",
+        "section": "MICRO_CLIMAX",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "NARRATOR",
+        "dialogue_or_narration": "Two heartbeats vanished into the ash. Ten remained on the clock.",
+        "duration_sec": 4.4,
+        "motion_type": "HERO_I2V",
+        "visual_tier": "CGI_SPLASH",
+        "camera_movement": "low_angle_push",
+        "image_prompt": "cinematic semi-3D hybrid dark fantasy manhwa still, [CHAR_01_VISUAL_DNA], wrenching a massive obsidian greatsword out of the cracked stone floor as crimson-violet flames spiral upward",
+        "i2v_motion_prompt": "The dark knight pulls the massive obsidian greatsword from the shattered stone floor, swirling crimson-violet fire erupts along the blade, cloak billows violently",
+        "comic_text_overlay": {
+          "text": "10 BEATS LEFT",
+          "style": "metallic_crimson_hud",
+          "trigger_sec": 0.7,
+          "duration_sec": 2.4
+        },
+        "sfx_cues": [
+          {
+            "sfx": "metallic_sword_unsheathe",
+            "offset_sec": 0.4
+          },
+          {
+            "sfx": "fire_whoosh",
+            "offset_sec": 0.9
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_007",
+        "section": "COMBAT",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "ANTAGONIST",
+        "dialogue_or_narration": "Cut him down! Do not let that blade wake!",
+        "duration_sec": 3.8,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "diagonal_slash_pan_dutch_tilt",
+        "image_prompt": "[STYLE_ANCHOR], [ANTAGONIST_VISUAL_DNA], leaping downward in a brutal overhead guillotine halberd slam with cyan shockwaves and aggressive speed lines",
+        "sfx_cues": [
+          {
+            "sfx": "stone_shatter",
+            "offset_sec": 1.1
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_008",
+        "section": "CLIMAX_PAYOFF",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "CHAR_01",
+        "dialogue_or_narration": "Way too slow.",
+        "duration_sec": 3.5,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "diagonal_slash_pan_dutch_tilt",
+        "image_prompt": "[STYLE_ANCHOR], [CHAR_01_VISUAL_DNA] clashing against [ANTAGONIST_VISUAL_DNA], parrying and slicing cleanly through the giant steel halberd shaft in one blinding diagonal crimson slash arc, flying sparks",
+        "impact_frame_at_sec": 1.2,
+        "comic_text_overlay": {
+          "text": "SHIIING!",
+          "style": "ink_brushstroke_impact",
+          "trigger_sec": 1.15,
+          "duration_sec": 1.2
+        },
+        "sfx_cues": [
+          {
+            "sfx": "metallic_sword_unsheathe",
+            "offset_sec": 1.15
+          },
+          {
+            "sfx": "sub_bass_drop",
+            "offset_sec": 1.2
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_009",
+        "section": "CLIMAX_PAYOFF",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "NARRATOR",
+        "dialogue_or_narration": "The shockwave tore through three centuries of Tribunal stone in half a second.",
+        "duration_sec": 4.5,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "zoom_out_reveal",
+        "image_prompt": "[STYLE_ANCHOR], wide destruction shot inside gothic cathedral as crimson shockwave shatters towering stone pillars and hurls armored guards backward through purple dust",
+        "sfx_cues": [
+          {
+            "sfx": "stone_shatter",
+            "offset_sec": 0.4
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_010",
+        "section": "AURA_FARMING",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "NARRATOR",
+        "dialogue_or_narration": "High Executioner Malakor hit the stone before his shattered halberd did.",
+        "duration_sec": 4.6,
+        "motion_type": "HERO_I2V",
+        "visual_tier": "CGI_SPLASH",
+        "camera_movement": "low_angle_push",
+        "image_prompt": "cinematic semi-3D hybrid dark fantasy manhwa still, heroic low-angle shot of [CHAR_01_VISUAL_DNA] standing victorious over a shattered steel halberd blade, crimson-violet embers drifting like snow",
+        "i2v_motion_prompt": "Heroic low-angle shot as the dark knight stands calmly with his glowing obsidian greatsword resting on his shoulder, silver hair and tattered cloak drifting in slow motion amidst rising crimson embers",
+        "comic_text_overlay": {
+          "text": "TRIBUNAL BROKEN",
+          "style": "metallic_crimson_hud",
+          "trigger_sec": 0.8,
+          "duration_sec": 2.4
+        },
+        "sfx_cues": [
+          {
+            "sfx": "ember_ignite_whoosh",
+            "offset_sec": 0.5
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_011",
+        "section": "CLIFFHANGER",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "NARRATOR",
+        "dialogue_or_narration": "Then the cracked floor beneath my boots answered with a pulse of its own.",
+        "duration_sec": 4.4,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "pan_down_vertical",
+        "image_prompt": "[STYLE_ANCHOR], top-down shot of [CHAR_01_VISUAL_DNA] standing over a glowing crimson-gold abyssal rune fissure splitting open across the black cathedral floor",
+        "sfx_cues": [
+          {
+            "sfx": "heavy_heartbeat_sub_bass",
+            "offset_sec": 0.8
+          }
+        ]
+      },
+      {
+        "scene_id": "sc_012",
+        "section": "CLIFFHANGER",
+        "location_id": "loc_tribunal_vault",
+        "speaker": "CHAR_01",
+        "dialogue_or_narration": "Something buried beneath House Veyr just matched my tenth heartbeat.",
+        "duration_sec": 4.6,
+        "motion_type": "2.5D_PARALLAX",
+        "visual_tier": "STICKMAN_MANHWA",
+        "camera_movement": "low_angle_fast_dolly_in_shake",
+        "image_prompt": "[STYLE_ANCHOR], ominous wide shot looking down into a colossal subterranean obsidian vault beneath the cracked floor where two giant ancient crimson eyes awaken in the dark",
+        "comic_text_overlay": {
+          "text": "SECOND HEARTBEAT DETECTED",
+          "style": "metallic_crimson_hud",
+          "trigger_sec": 0.6,
+          "duration_sec": 2.8
+        },
+        "sfx_cues": [
+          {
+            "sfx": "heavy_heartbeat_sub_bass",
+            "offset_sec": 0.3
+          },
+          {
+            "sfx": "sub_bass_drop",
+            "offset_sec": 1.6
+          }
+        ]
+      }
+    ],
+    "shorts_cutdowns": [
+      {
+        "short_id": "ep01_cinder_short01",
+        "scene_range": [
+          "sc_001",
+          "sc_010"
+        ],
+        "target_duration_sec": 48,
+        "hook_caption": "12 HEARTBEATS LEFT AT HIS OWN EXECUTION"
+      }
+    ]
+  }
+}
